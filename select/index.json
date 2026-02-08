@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "よだか",
+  "base_artist": "ちゃくら",
+  "createdAt": "2026-02-08T11:22:50.417125Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "よだか",
+      "artist": "ちゃくら",
+      "has_synced": false,
+      "path": "select/pl_01_よだか_ちゃくら.txt"
+    }
+  ]
+}
